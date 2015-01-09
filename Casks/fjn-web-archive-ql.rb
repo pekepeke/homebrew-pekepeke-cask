@@ -1,7 +1,7 @@
-class FjnWebArchiveQl < Cask
-  url 'http://www.qlplugins.com/sites/all/modules/pubdlcnt/pubdlcnt.php?file=http://www.qlplugins.com/sites/default/files/plugins/FJNWebArchive1_0_1.zip&nid=26'
+cask :v1 => 'fjn-web-archive-ql' do
+  version :latest
+  sha256 'cb524e95488549406b5b55ae11f7717d701b2c56e1ec941ebb9e56f917840d86'
+  url 'http://sourceforge.jp/frs/redir.php?m=iij&f=%2Ffjnwebarchive%2F39338%2FFJNWebArchive1_0_1.zip'
   homepage 'http://sourceforge.jp/projects/fjnwebarchive/'
-  version '1.0.1'
-  sha256 'ab3bbe21a8710e2b3282fc2581877c90d36ddc5d78782c23d583a196b05bb6e1'
   qlplugin 'FJNWebArchive1_0_1/FJNWebArchive.qlgenerator'
 end
