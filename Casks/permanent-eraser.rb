@@ -1,6 +1,6 @@
 cask :v1 => 'permanent-eraser' do
   version 'latest'
-  sha256 '433a61ee6a05a5932ad7c5d68478d4a0fa9063a313c7e4cacbccc91ffb2ad417'
+  sha256 'aa95f395054087c1498dfd352619186706ea7ad976f47facde771acc55792e88'
 
   url 'http://www.edenwaith.com/downloads/Permanent%20Eraser%202.6.3%20Beta2.zip'
   homepage 'http://www.edenwaith.com/products/permanent%20eraser/'
