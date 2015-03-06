@@ -1,7 +1,7 @@
 cask :v1 => 'macvim-kaoriya-custom' do
 
   version 'latest'
-  sha256 '75f74d0f2893dc1de1246c6245a3a764e4c2d8162628fed5b2da054ee816cf89'
+  sha256 'e26aef5be39b08893fc531d9e19fc088d85b33e85f3165ab7f0551f7c3139d6d'
   # no_checksum
 
   url 'https://onedrive.live.com/download.aspx?cid=7D1808F7AEC0A65A&resid=7D1808F7AEC0A65A%21126&canary=rqfVmDg24Wn2sxycveYmBjDSRExgl803fPTYU9jilgA%3D9'
