@@ -1,12 +1,12 @@
 cask :v1 => 'zeal' do
-  version '0.0.0-e66ded694d'
-  sha256 '42c98dcbacc704164343384494ca2bf7fa0a509e896c936866b238abd6ae183d'
+  version '0.0.0'
+  sha256 '7e7b902c1da31885ce1137b0440265c8d94850272de5b4a275e17f46d1516fff'
   # no_checksum
 
-  url 'https://1fo0la.bl3302.livefilestore.com/y2pc045kWuw8njdUAJVr6NpekvqQDolFd8UWmSsGOWmVLmdQnEdVkw8jskyIKrZ3kTn1mnfT8URG61TFMSSOZKVpZsmjRNDLjA4oBgBv1lDBM_MoSOQ_wvlWwZtiowNFGVy6ddOhY0SgFTFPcDm077H4Q/zeal.dmg?download&psid=1'
+  url 'https://1fo0la.bl3302.livefilestore.com/y2pDjaLMkY8jTi3b1fThCLo4rRDHU4ls7sv3lC6PjBuo59lDA12QpD5LnPOI0e2JcEIQt9fJyQcUObV7UgduzmRlPUcXXitKEpRG-OXvdnhwqjDbNVdOOaMGjk9eFXj-ANFLhNv4Z_-UXYLiZURF5F7Uw/Zeal.dmg?download&psid=1'
   container :type => :dmg
   homepage 'http://zealdocs.org/'
 
-  name 'zeal.app'
-  app 'zeal.app'
+  name 'Zeal.app'
+  app 'Zeal.app'
 end
