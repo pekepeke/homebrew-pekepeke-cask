@@ -1,4 +1,4 @@
-cask :v1 => 'stroy' do
+cask 'stroy' do
   version :latest
   sha256 'af355f4409c1a5b83181f02dc22008c41123a06414197ae7acb1858cb02b9b9f'
 

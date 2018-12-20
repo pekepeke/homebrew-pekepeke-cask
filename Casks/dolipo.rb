@@ -1,4 +1,4 @@
-cask :v1 => 'dolipo' do
+cask 'dolipo' do
   homepage 'http://drikin.com/'
   version :latest
   # url 'http://dolipo.googlecode.com/files/dolipo.zip'

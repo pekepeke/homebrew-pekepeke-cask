@@ -1,4 +1,4 @@
-cask :v1 => 'google-music' do
+cask 'google-music' do
   url 'http://205.196.120.147/uaab8yom11cg/1z3ezfqwufyjejv/GoogleMusic.dmg'
   homepage 'http://music.google.com/'
   version '1.0.0'

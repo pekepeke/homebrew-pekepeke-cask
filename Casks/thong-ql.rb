@@ -1,4 +1,4 @@
-cask :v1 => 'thong-ql' do
+cask 'thong-ql' do
   version :latest
   url 'http://fousa-apps.s3.amazonaws.com/thong/thong-1.1.dmg'
   homepage 'http://thong.fousa.be'

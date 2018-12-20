@@ -1,4 +1,4 @@
-cask :v1 => 'macvim-kaoriya-custom' do
+cask 'macvim-kaoriya-custom' do
 
   version 'latest'
   sha256 '13a96dd62759e3fc327e4b792bae50229160ae9200db2d6880f8e976934de4ca'

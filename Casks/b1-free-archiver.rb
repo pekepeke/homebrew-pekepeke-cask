@@ -1,4 +1,4 @@
-cask :v1 => 'b1-free-archiver' do
+cask 'b1-free-archiver' do
   version 'latest'
   sha256 'c94e6b756c959b1f71d4766925e5411d53dc5d2c05e7ff4eca59ccff6ab16a55'
   # no_checksum

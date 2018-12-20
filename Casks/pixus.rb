@@ -1,4 +1,4 @@
-cask :v1 => 'pixus' do
+cask 'pixus' do
   version :latest
   sha256 :no_check
 
@@ -6,7 +6,7 @@ cask :v1 => 'pixus' do
   # url 'https://pixus.googlecode.com/files/pixus.air' # broken
   url 'https://pixus.googlecode.com/files/pixus%201.0%20r75.air'
   homepage 'https://code.google.com/p/pixus/'
-  license :mit
+  # license :mit
 
   app 'Pixus.app'
 

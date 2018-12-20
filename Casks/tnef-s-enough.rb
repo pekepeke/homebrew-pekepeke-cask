@@ -1,4 +1,4 @@
-cask :v1 => 'tnef-s-enough' do
+cask 'tnef-s-enough' do
   version :latest
   sha256 '7e3328a1447587207f948907fdd76bc50b232dbf40f28a9c647ec7a0c43e2b64'
   # no_checksum

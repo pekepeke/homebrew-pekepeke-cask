@@ -1,4 +1,4 @@
-cask :v1 => 'kdiff3-ja' do
+cask 'kdiff3-ja' do
   version '0.9.97'
   sha256 'df3b73880e4c8cfbcf7dad75f0f181efbb3a044af84410006299bfdf2780c2bd'
   # no_checksum

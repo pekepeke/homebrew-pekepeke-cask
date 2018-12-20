@@ -1,4 +1,4 @@
-cask :v1 => 'j-follow-tail' do
+cask 'j-follow-tail' do
   version 'latest'
   sha256 'b7355cea9b210ee94ce634b0c365ea5c8381b57453e0b67733800a2b015e3318'
   # no_checksum

@@ -1,4 +1,4 @@
-cask :v1 => 'browse' do
+cask 'browse' do
   version 'latest'
   sha256 'b750d495e3b458d9e200ecf6328766f87c87abbf1613cc52fbcfeb4979999754'
   # no_checksum

@@ -1,4 +1,4 @@
-cask :v1 => 'macvim-kaoriya' do
+cask 'macvim-kaoriya' do
   url 'https://github.com/splhack/macvim/releases/download/20140107/macvim-kaoriya-20140107.dmg'
   homepage 'https://code.google.com/p/macvim-kaoriya/'
   version '20140107'

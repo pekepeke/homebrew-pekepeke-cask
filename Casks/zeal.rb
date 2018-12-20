@@ -1,4 +1,4 @@
-cask :v1 => 'zeal' do
+cask 'zeal' do
   version '0.0.0'
   sha256 '7e7b902c1da31885ce1137b0440265c8d94850272de5b4a275e17f46d1516fff'
   # no_checksum

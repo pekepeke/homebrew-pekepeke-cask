@@ -1,4 +1,4 @@
-cask :v1 => 'permanent-eraser' do
+cask 'permanent-eraser' do
   version '2.6.3'
   sha256 'aa95f395054087c1498dfd352619186706ea7ad976f47facde771acc55792e88'
 

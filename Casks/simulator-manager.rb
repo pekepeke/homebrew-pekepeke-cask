@@ -1,4 +1,4 @@
-cask :v1 => 'simulator-manager' do
+cask 'simulator-manager' do
   version 'latest'
   sha256 'ca9f7d5d8813df7eb09f420e6de6613493723a08671070e818ee3bebab4e4464'
   # no_checksum
